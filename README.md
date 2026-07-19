@@ -1,16 +1,34 @@
-## Hi there 👋
+# Ashwine Daniel
 
-<!--
-**Ashwin2459Bh/Ashwin2459Bh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This README was generated.
 
-Here are some ideas to get you started:
+`<picture>`{=html}
+`<source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">`{=html}
+`<source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">`{=html}
+`<img src="./banner.svg?v=1" width="100%">`{=html} `</picture>`{=html}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`<img src="./lanyard.svg?v=1" width="240">`{=html}
+
+## About Me
+
+-   AI Developer
+-   Python Developer
+-   Machine Learning Enthusiast
+
+## Tech Stack
+
+Python, TensorFlow, NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn,
+Git, GitHub, Prompt Engineering
+
+## Stats
+
+`<img src="./stats.svg?v=1" width="48%">`{=html}
+`<img src="./langs.svg?v=1" width="48%">`{=html}
+
+## Trophies
+
+`<img src="./trophies.svg?v=1" width="90%">`{=html}
+
+## Snake
+
+`<img src="https://raw.githubusercontent.com/Ashwin2459Bh/Ashwin2459Bh/output/github-contribution-grid-snake.svg">`{=html}
